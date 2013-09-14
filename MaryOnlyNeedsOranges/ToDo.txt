@@ -1,0 +1,18 @@
+TODO: 
+
+*one directional change per move - DONE
+*implement graphics - DONE
+*implement rotation of sprites depending on the direction - DONE
+*fruits can't appear on snake - DONE
+*implement splashscreen (2 diamonds shining + text) - DONE
+*add points writing (might have to modify the size of window or the drawing space or move writing depending on where the snake/food is) - DONE
+*add rare fruit that will stay for 3 seconds on the screen and will double the points (once every 15 points) - DONE
+*add delay between clicks ( 1 sec ) - DONE
+*add pause on P - DONE
+*implement menu - DONE
+*add color change - DONE
+*add credits - DONE
+
+*add black eyes when snake is red - NOT SURE
+*add tongue in-out animation (change every 1 or 2 secs) 
+*change trees to rivers - NOT SURE
